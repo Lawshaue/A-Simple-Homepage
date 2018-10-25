@@ -1,0 +1,20 @@
+  body {
+      position: relative;
+     background: #445;
+	   color: #FFF;
+  }
+  #section1 {padding-top:50px;height:500px;color: #fff; background-color: #B8860B; }
+  #section2 {padding-top:50px;height:500px;color: #fff; background-color: #696969;}
+  #section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
+  #section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
+  #section42 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+
+#main {
+	background: linear-gradient(to bottom, rgba(0,0,0,0.66) 100%, transparent), url(https://media.deseretdigital.com/file/aa89988589?type=jpeg&quality=55&c=15&a=4379240d);
+	background-size: cover, cover;
+	background-position: center, center;
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
